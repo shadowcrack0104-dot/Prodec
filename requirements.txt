@@ -1,0 +1,17 @@
+# ── Telegram Bot ──
+python-telegram-bot>=21.0,<22.0
+
+# ── Crypto (DarkTunnel, HC, EHI decoders) ──
+pycryptodome>=3.20.0
+
+# ── Argon2 (EHI decoder) ──
+argon2-cffi>=23.1.0
+
+# ── MsgPack (DarkTunnel decoder) ──
+msgpack>=1.0.7
+
+# ── Timezone (Asia/Dhaka) ──
+pytz>=2024.1
+
+# ── Environment variables ──
+python-dotenv>=1.0.0
